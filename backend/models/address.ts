@@ -2,7 +2,7 @@ import mongoose from "mongoose";
 
 const addressSchema = new mongoose.Schema({
   user: { type: mongoose.Schema.Types.ObjectId, ref: 'User', required: true },
-  label: { type: String, default: 'Home' }, // e.g., Home, Work
+  label: { type: String, default: 'Home' },
   street: String,
   city: String,
   state: String,
@@ -12,4 +12,6 @@ const addressSchema = new mongoose.Schema({
   isDefault: { type: Boolean, default: false }
 }, { timestamps: true });
 
-module.exports = mongoose.model('Address', addressSchema);
+const Address = mongoose.model('Address', addressSchema); // <-- Declare here
+
+export default Address; // <-- Export after declaration
