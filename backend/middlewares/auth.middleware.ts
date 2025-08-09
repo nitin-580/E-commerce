@@ -3,6 +3,10 @@ import { Request, Response, NextFunction } from 'express';
 import dotenv from 'dotenv';
 dotenv.config();
 
+export interface AuthRequest extends Request {
+    user?: { id: string };
+  }
+
 export const authenticatore = (req: Request, res: Response, next: NextFunction) => {
     const authheader = req.headers.authorization;
     if (!authheader) {

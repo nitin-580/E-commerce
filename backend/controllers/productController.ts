@@ -4,7 +4,9 @@ import Product from '../models/productModel';  // adjust path accordingly
 // Create a new product
 export const createProduct = async (req: Request, res: Response) => {
   try {
-    const { productId, name, description, price, stockQuantity, category, images } = req.body;
+    const { productId, name, description, price, stockQuantity, category } = req.body;
+    const images = (req.files as Express.Multer.File[]).map(file => file.path);
+
 
     const newProduct = new Product({
       productId,
