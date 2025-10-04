@@ -1,0 +1,129 @@
+[
+    {
+      "_id": "64e3f7e5b5f1c2a1d3e4f63d",
+      "user": "64e3a2f8b5f1c2a1d3e4f501",
+      "products": [
+        { "product": "64e3e6d4b5f1c2a1d3e4f629", "quantity": 1 },
+        { "product": "64e3e6d4b5f1c2a1d3e4f62a", "quantity": 2 }
+      ],
+      "totalAmount": 3297,
+      "status": "pending",
+      "paymentStatus": "pending",
+      "paymentMethod": "card",
+      "shippingAddress": "64e3d5c3b5f1c2a1d3e4f615"
+    },
+    {
+      "_id": "64e3f7e5b5f1c2a1d3e4f63e",
+      "user": "64e3a2f8b5f1c2a1d3e4f502",
+      "products": [
+        { "product": "64e3e6d4b5f1c2a1d3e4f62b", "quantity": 1 }
+      ],
+      "totalAmount": 599,
+      "status": "confirmed",
+      "paymentStatus": "paid",
+      "paymentMethod": "upi",
+      "shippingAddress": "64e3d5c3b5f1c2a1d3e4f616"
+    },
+    {
+      "_id": "64e3f7e5b5f1c2a1d3e4f63f",
+      "user": "64e3a2f8b5f1c2a1d3e4f503",
+      "products": [
+        { "product": "64e3e6d4b5f1c2a1d3e4f62c", "quantity": 2 },
+        { "product": "64e3e6d4b5f1c2a1d3e4f62d", "quantity": 1 }
+      ],
+      "totalAmount": 2497,
+      "status": "shipped",
+      "paymentStatus": "paid",
+      "paymentMethod": "card",
+      "shippingAddress": "64e3d5c3b5f1c2a1d3e4f617"
+    },
+    {
+      "_id": "64e3f7e5b5f1c2a1d3e4f640",
+      "user": "64e3a2f8b5f1c2a1d3e4f504",
+      "products": [
+        { "product": "64e3e6d4b5f1c2a1d3e4f62e", "quantity": 1 },
+        { "product": "64e3e6d4b5f1c2a1d3e4f62f", "quantity": 1 }
+      ],
+      "totalAmount": 1398,
+      "status": "delivered",
+      "paymentStatus": "paid",
+      "paymentMethod": "card",
+      "shippingAddress": "64e3d5c3b5f1c2a1d3e4f618"
+    },
+    {
+      "_id": "64e3f7e5b5f1c2a1d3e4f641",
+      "user": "64e3a2f8b5f1c2a1d3e4f505",
+      "products": [
+        { "product": "64e3e6d4b5f1c2a1d3e4f630", "quantity": 3 }
+      ],
+      "totalAmount": 2997,
+      "status": "pending",
+      "paymentStatus": "pending",
+      "paymentMethod": "upi",
+      "shippingAddress": "64e3d5c3b5f1c2a1d3e4f619"
+    },
+    {
+      "_id": "64e3f7e5b5f1c2a1d3e4f642",
+      "user": "64e3a2f8b5f1c2a1d3e4f506",
+      "products": [
+        { "product": "64e3e6d4b5f1c2a1d3e4f631", "quantity": 1 },
+        { "product": "64e3e6d4b5f1c2a1d3e4f632", "quantity": 2 }
+      ],
+      "totalAmount": 2197,
+      "status": "confirmed",
+      "paymentStatus": "paid",
+      "paymentMethod": "card",
+      "shippingAddress": "64e3d5c3b5f1c2a1d3e4f61a"
+    },
+    {
+      "_id": "64e3f7e5b5f1c2a1d3e4f643",
+      "user": "64e3a2f8b5f1c2a1d3e4f507",
+      "products": [
+        { "product": "64e3e6d4b5f1c2a1d3e4f633", "quantity": 1 }
+      ],
+      "totalAmount": 1499,
+      "status": "shipped",
+      "paymentStatus": "paid",
+      "paymentMethod": "upi",
+      "shippingAddress": "64e3d5c3b5f1c2a1d3e4f61b"
+    },
+    {
+      "_id": "64e3f7e5b5f1c2a1d3e4f644",
+      "user": "64e3a2f8b5f1c2a1d3e4f508",
+      "products": [
+        { "product": "64e3e6d4b5f1c2a1d3e4f634", "quantity": 2 },
+        { "product": "64e3e6d4b5f1c2a1d3e4f635", "quantity": 1 }
+      ],
+      "totalAmount": 8497,
+      "status": "delivered",
+      "paymentStatus": "paid",
+      "paymentMethod": "card",
+      "shippingAddress": "64e3d5c3b5f1c2a1d3e4f61c"
+    },
+    {
+      "_id": "64e3f7e5b5f1c2a1d3e4f645",
+      "user": "64e3a2f8b5f1c2a1d3e4f509",
+      "products": [
+        { "product": "64e3e6d4b5f1c2a1d3e4f636", "quantity": 1 }
+      ],
+      "totalAmount": 3499,
+      "status": "pending",
+      "paymentStatus": "pending",
+      "paymentMethod": "upi",
+      "shippingAddress": "64e3d5c3b5f1c2a1d3e4f61d"
+    },
+    {
+      "_id": "64e3f7e5b5f1c2a1d3e4f646",
+      "user": "64e3a2f8b5f1c2a1d3e4f50a",
+      "products": [
+        { "product": "64e3e6d4b5f1c2a1d3e4f637", "quantity": 2 },
+        { "product": "64e3e6d4b5f1c2a1d3e4f638", "quantity": 1 }
+      ],
+      "totalAmount": 1597,
+      "status": "confirmed",
+      "paymentStatus": "paid",
+      "paymentMethod": "card",
+      "shippingAddress": "64e3d5c3b5f1c2a1d3e4f61e"
+    }
+  ]
+  

@@ -1,0 +1,203 @@
+[
+    {
+      "_id": "64e3e6d4b5f1c2a1d3e4f629",
+      "productId": "DECOR001",
+      "name": "Handcrafted Wooden Lamp",
+      "description": "Elegant handcrafted wooden lamp, perfect for living room décor.",
+      "price": 1499,
+      "stockQuantity": 50,
+      "category": "Lighting",
+      "images": ["https://images.unsplash.com/photo-1602524201531-798d152dc3a3?auto=format&fit=crop&w=400&q=80"]
+    },
+    {
+      "_id": "64e3e6d4b5f1c2a1d3e4f62a",
+      "productId": "DECOR002",
+      "name": "Ceramic Vase Set",
+      "description": "Set of 3 decorative ceramic vases for flowers and tabletop décor.",
+      "price": 899,
+      "stockQuantity": 30,
+      "category": "Vases",
+      "images": ["https://images.unsplash.com/photo-1598300051120-6a3c3b5c6b14?auto=format&fit=crop&w=400&q=80"]
+    },
+    {
+      "_id": "64e3e6d4b5f1c2a1d3e4f62b",
+      "productId": "DECOR003",
+      "name": "Macrame Wall Hanging",
+      "description": "Boho-style macrame wall hanging to enhance your room aesthetic.",
+      "price": 599,
+      "stockQuantity": 40,
+      "category": "Wall Decor",
+      "images": ["https://images.unsplash.com/photo-1602524201785-8c9e6e48a07b?auto=format&fit=crop&w=400&q=80"]
+    },
+    {
+      "_id": "64e3e6d4b5f1c2a1d3e4f62c",
+      "productId": "DECOR004",
+      "name": "Decorative Candle Set",
+      "description": "Set of 4 scented candles with elegant holders.",
+      "price": 499,
+      "stockQuantity": 60,
+      "category": "Candles",
+      "images": ["https://images.unsplash.com/photo-1611599535695-2e63c2f18291?auto=format&fit=crop&w=400&q=80"]
+    },
+    {
+      "_id": "64e3e6d4b5f1c2a1d3e4f62d",
+      "productId": "DECOR005",
+      "name": "Ethnic Wall Clock",
+      "description": "Traditional Indian wall clock with ethnic patterns.",
+      "price": 1299,
+      "stockQuantity": 25,
+      "category": "Wall Decor",
+      "images": ["https://images.unsplash.com/photo-1582719478250-1d5d84c4b178?auto=format&fit=crop&w=400&q=80"]
+    },
+    {
+      "_id": "64e3e6d4b5f1c2a1d3e4f62e",
+      "productId": "DECOR006",
+      "name": "Indoor Plant Pot",
+      "description": "Ceramic plant pot ideal for indoor plants and succulents.",
+      "price": 699,
+      "stockQuantity": 70,
+      "category": "Planters",
+      "images": ["https://images.unsplash.com/photo-1602524201772-5b2f57a80b1b?auto=format&fit=crop&w=400&q=80"]
+    },
+    {
+      "_id": "64e3e6d4b5f1c2a1d3e4f62f",
+      "productId": "DECOR007",
+      "name": "Rajasthani Cushion Cover",
+      "description": "Colorful hand-embroidered cushion cover from Rajasthan.",
+      "price": 399,
+      "stockQuantity": 100,
+      "category": "Textiles",
+      "images": ["https://images.unsplash.com/photo-1602524201862-5f9b4aeb2a53?auto=format&fit=crop&w=400&q=80"]
+    },
+    {
+      "_id": "64e3e6d4b5f1c2a1d3e4f630",
+      "productId": "DECOR008",
+      "name": "Brass Diya Set",
+      "description": "Traditional brass diya set for festive occasions.",
+      "price": 799,
+      "stockQuantity": 45,
+      "category": "Lighting",
+      "images": ["https://images.unsplash.com/photo-1602524201841-d02c90cb1a73?auto=format&fit=crop&w=400&q=80"]
+    },
+    {
+      "_id": "64e3e6d4b5f1c2a1d3e4f631",
+      "productId": "DECOR009",
+      "name": "Hanging Terrarium",
+      "description": "Glass hanging terrarium for small plants and succulents.",
+      "price": 999,
+      "stockQuantity": 35,
+      "category": "Planters",
+      "images": ["https://images.unsplash.com/photo-1602524201810-90f6f611a6e2?auto=format&fit=crop&w=400&q=80"]
+    },
+    {
+      "_id": "64e3e6d4b5f1c2a1d3e4f632",
+      "productId": "DECOR010",
+      "name": "Hand-painted Ceramic Plate",
+      "description": "Decorative ceramic plate with traditional hand-painted designs.",
+      "price": 599,
+      "stockQuantity": 40,
+      "category": "Decor Plates",
+      "images": ["https://images.unsplash.com/photo-1602524201802-3e7a2b94f2d0?auto=format&fit=crop&w=400&q=80"]
+    },
+    {
+      "_id": "64e3e6d4b5f1c2a1d3e4f633",
+      "productId": "DECOR011",
+      "name": "Moroccan Style Lantern",
+      "description": "Metallic Moroccan lantern for ambient lighting.",
+      "price": 1499,
+      "stockQuantity": 30,
+      "category": "Lighting",
+      "images": ["https://images.unsplash.com/photo-1602524201792-4f5f6f6a1c5e?auto=format&fit=crop&w=400&q=80"]
+    },
+    {
+      "_id": "64e3e6d4b5f1c2a1d3e4f634",
+      "productId": "DECOR012",
+      "name": "Handwoven Jute Rug",
+      "description": "Eco-friendly jute rug with natural texture and earthy tones.",
+      "price": 2499,
+      "stockQuantity": 20,
+      "category": "Rugs",
+      "images": ["https://images.unsplash.com/photo-1602524201789-2a5e6a8f8e5c?auto=format&fit=crop&w=400&q=80"]
+    },
+    {
+      "_id": "64e3e6d4b5f1c2a1d3e4f635",
+      "productId": "DECOR013",
+      "name": "Vintage Wall Mirror",
+      "description": "Ornate vintage wall mirror with carved wooden frame.",
+      "price": 3499,
+      "stockQuantity": 15,
+      "category": "Wall Decor",
+      "images": ["https://images.unsplash.com/photo-1602524201764-1b8f5b8a0f7b?auto=format&fit=crop&w=400&q=80"]
+    },
+    {
+      "_id": "64e3e6d4b5f1c2a1d3e4f636",
+      "productId": "DECOR014",
+      "name": "Terracotta Figurine",
+      "description": "Handmade terracotta figurine of Indian deity.",
+      "price": 699,
+      "stockQuantity": 50,
+      "category": "Sculptures",
+      "images": ["https://images.unsplash.com/photo-1602524201743-3b5e5a1d4a3e?auto=format&fit=crop&w=400&q=80"]
+    },
+    {
+      "_id": "64e3e6d4b5f1c2a1d3e4f637",
+      "productId": "DECOR015",
+      "name": "Handcrafted Wooden Coasters",
+      "description": "Set of 6 hand-painted wooden coasters for dining table.",
+      "price": 499,
+      "stockQuantity": 70,
+      "category": "Table Decor",
+      "images": ["https://images.unsplash.com/photo-1602524201723-4a2d5b7f6c1f?auto=format&fit=crop&w=400&q=80"]
+    },
+    {
+      "_id": "64e3e6d4b5f1c2a1d3e4f638",
+      "productId": "DECOR016",
+      "name": "Glass Vase with Flowers",
+      "description": "Clear glass vase with artificial flowers for home décor.",
+      "price": 599,
+      "stockQuantity": 60,
+      "category": "Vases",
+      "images": ["https://images.unsplash.com/photo-1602524201710-2d5e1b7f6e0c?auto=format&fit=crop&w=400&q=80"]
+    },
+    {
+      "_id": "64e3e6d4b5f1c2a1d3e4f639",
+      "productId": "DECOR017",
+      "name": "Handmade Paper Lanterns",
+      "description": "Set of 3 colorful handmade paper lanterns for decoration.",
+      "price": 799,
+      "stockQuantity": 40,
+      "category": "Lighting",
+      "images": ["https://images.unsplash.com/photo-1602524201701-1b5c4f5e2a1d?auto=format&fit=crop&w=400&q=80"]
+    },
+    {
+      "_id": "64e3e6d4b5f1c2a1d3e4f63a",
+      "productId": "DECOR018",
+      "name": "Cotton Table Runner",
+      "description": "Handwoven cotton table runner with traditional patterns.",
+      "price": 399,
+      "stockQuantity": 90,
+      "category": "Textiles",
+      "images": ["https://images.unsplash.com/photo-1602524201691-2c4e1b7f5d2b?auto=format&fit=crop&w=400&q=80"]
+    },
+    {
+      "_id": "64e3e6d4b5f1c2a1d3e4f63b",
+      "productId": "DECOR019",
+      "name": "Decorative Wall Shelf",
+      "description": "Wooden wall shelf for displaying showpieces and books.",
+      "price": 1299,
+      "stockQuantity": 35,
+      "category": "Wall Decor",
+      "images": ["https://images.unsplash.com/photo-1602524201680-3a4e1b7f6d1b?auto=format&fit=crop&w=400&q=80"]
+    },
+    {
+      "_id": "64e3e6d4b5f1c2a1d3e4f63c",
+      "productId": "DECOR020",
+      "name": "Hand-painted Ceramic Mug Set",
+      "description": "Set of 2 hand-painted ceramic mugs for tea and",
+      "price": 1299,
+      "stockQuantity": 35,
+      "category": "Wall Decor",
+      "images": ["https://images.unsplash.com/photo-1602524201680-3a4e1b7f6d1b?auto=format&fit=crop&w=400&q=80"]
+    }
+  
+]

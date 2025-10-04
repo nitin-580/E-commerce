@@ -4,7 +4,7 @@ import {products} from "@/components/product/products";
 
 const ProductGrid: React.FC = () => {
   return (
-    <div className="bg-white py-10">
+    <div className="bg-[#f7e9d1] py-10">
       <h2 className="text-4xl text-black text-center mb-5">Our Products</h2>
       <h2 className="text-m text-gray-500 text-center mb-8">
         Discover Our Diverse Categories for Every Corner of Your Home

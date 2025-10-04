@@ -6,4 +6,4 @@ const complaintSchema = new mongoose.Schema({
     message: String,
     status: { type: String, default: 'open' }
   }, { timestamps: true });
-  
+export default mongoose.model('Complaint', complaintSchema);

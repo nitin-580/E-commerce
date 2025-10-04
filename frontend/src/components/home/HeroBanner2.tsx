@@ -1,16 +1,15 @@
 "use client";
 import React, { useState, useEffect } from "react";
+import Navbar from "../layout/Navbar";
+import Navbar2 from "../layout/Navbar2"
+import CategoryGrid from "./CategoryBar";
+import CategoryBar from "./CategoryBar";
 
-const posters = [
-  "https://picsum.photos/id/1018/2000/1500",
-  "https://picsum.photos/id/1015/2000/1500",
-  "https://picsum.photos/id/1019/2000/1500",
-  "https://picsum.photos/id/1020/2000/1500",
-  "https://picsum.photos/id/1021/2000/1500",
-];
+const posters = ["/images/background.jpg"];
 
 const HeroBanner2 = () => {
   const [current, setCurrent] = useState(0);
+  const [showNavbar, setShowNavbar] = useState(false);
 
   const nextSlide = () => {
     setCurrent((prev) => (prev === posters.length - 1 ? 0 : prev + 1));
@@ -25,12 +24,20 @@ const HeroBanner2 = () => {
     const timer = setInterval(() => {
       nextSlide();
     }, 4000);
+    return () => clearInterval(timer);
+  }, []);
 
-    return () => clearInterval(timer); // cleanup
+  // Show navbar only when scrolled
+  useEffect(() => {
+    const handleScroll = () => {
+      setShowNavbar(window.scrollY > 50);
+    };
+    window.addEventListener("scroll", handleScroll);
+    return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
   return (
-    <div className="relative w-full h-[500px] overflow-hidden">
+    <div className="relative w-full h-screen overflow-hidden">
       {/* Images */}
       {posters.map((poster, index) => (
         <div
@@ -46,6 +53,24 @@ const HeroBanner2 = () => {
           />
         </div>
       ))}
+
+      {/* Overlay Content (Logo + Button) */}
+      <div className="absolute inset-0 text-center text-white bg-black/40">
+      <Navbar2 />
+      </div>
+      <div className="absolute inset-0 flex flex-col items-center justify-center text-center text-white bg-black/40">
+        <img
+          src="/images/logo3.png"
+          alt="Logo"
+          className="h-150 w-150 mb-8 object-contain"
+        />
+        <button className="px-10 py-6 bg-transparent text-white border text-3xl shadow-md hover:bg-white hover:text-black transition">
+          Explore Collections
+        </button>
+      </div>
+      <div>
+        <CategoryBar />
+      </div>
 
       {/* Left Button */}
       <button
@@ -69,11 +94,19 @@ const HeroBanner2 = () => {
           <button
             key={index}
             onClick={() => setCurrent(index)}
-            className={`w-2 h-2 rounded-full ${
-              current === index ? "bg-black" : "bg-gray-400"
+            className={`w-3 h-3 rounded-full ${
+              current === index ? "bg-white" : "bg-gray-500"
             }`}
           ></button>
         ))}
+      </div>
+      {/* Navbar (hidden until scroll) */}
+      <div
+        className={`fixed top-0 left-0 w-full bg-white shadow-md z-50 transform transition-transform duration-500 ${
+          showNavbar ? "translate-y-0" : "-translate-y-full"
+        }`}
+      >
+        <Navbar />
       </div>
     </div>
   );

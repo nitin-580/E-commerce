@@ -1,0 +1,73 @@
+[
+    {
+      "_id": "64e3c4b2b5f1c2a1d3e4f615",
+      "user": "64e3a2f8b5f1c2a1d3e4f501",
+      "order": "64e3f7e5b5f1c2a1d3e4f63d",
+      "message": "Product arrived damaged. Requesting a replacement.",
+      "status": "open"
+    },
+    {
+      "_id": "64e3c4b2b5f1c2a1d3e4f616",
+      "user": "64e3a2f8b5f1c2a1d3e4f502",
+      "order": "64e3f7e5b5f1c2a1d3e4f63e",
+      "message": "Wrong item delivered. Need the correct product urgently.",
+      "status": "open"
+    },
+    {
+      "_id": "64e3c4b2b5f1c2a1d3e4f617",
+      "user": "64e3a2f8b5f1c2a1d3e4f503",
+      "order": "64e3f7e5b5f1c2a1d3e4f63f",
+      "message": "Order was delayed by 5 days. Please resolve.",
+      "status": "open"
+    },
+    {
+      "_id": "64e3c4b2b5f1c2a1d3e4f618",
+      "user": "64e3a2f8b5f1c2a1d3e4f504",
+      "order": "64e3f7e5b5f1c2a1d3e4f640",
+      "message": "Received incomplete package. Missing items listed in order.",
+      "status": "open"
+    },
+    {
+      "_id": "64e3c4b2b5f1c2a1d3e4f619",
+      "user": "64e3a2f8b5f1c2a1d3e4f505",
+      "order": "64e3f7e5b5f1c2a1d3e4f641",
+      "message": "Payment deducted but order not processed.",
+      "status": "open"
+    },
+    {
+      "_id": "64e3c4b2b5f1c2a1d3e4f61a",
+      "user": "64e3a2f8b5f1c2a1d3e4f506",
+      "order": "64e3f7e5b5f1c2a1d3e4f642",
+      "message": "Received defective product. Need refund.",
+      "status": "open"
+    },
+    {
+      "_id": "64e3c4b2b5f1c2a1d3e4f61b",
+      "user": "64e3a2f8b5f1c2a1d3e4f507",
+      "order": "64e3f7e5b5f1c2a1d3e4f643",
+      "message": "Incorrect product variant delivered.",
+      "status": "open"
+    },
+    {
+      "_id": "64e3c4b2b5f1c2a1d3e4f61c",
+      "user": "64e3a2f8b5f1c2a1d3e4f508",
+      "order": "64e3f7e5b5f1c2a1d3e4f644",
+      "message": "Order missing accessories. Need replacement.",
+      "status": "open"
+    },
+    {
+      "_id": "64e3c4b2b5f1c2a1d3e4f61d",
+      "user": "64e3a2f8b5f1c2a1d3e4f509",
+      "order": "64e3f7e5b5f1c2a1d3e4f645",
+      "message": "Customer support not responding. Please escalate.",
+      "status": "open"
+    },
+    {
+      "_id": "64e3c4b2b5f1c2a1d3e4f61e",
+      "user": "64e3a2f8b5f1c2a1d3e4f50a",
+      "order": "64e3f7e5b5f1c2a1d3e4f646",
+      "message": "Refund not processed after cancellation.",
+      "status": "open"
+    }
+  ]
+  

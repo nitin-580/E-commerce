@@ -1,0 +1,253 @@
+[
+    {
+      "_id": "64e3a2f8b5f1c2a1d3e4f501",
+      "name": "Aarav Sharma",
+      "email": "aarav.sharma@example.com",
+      "passwordHash": "hashedpassword",
+      "role": "customer",
+      "phoneNumber": "9876543210",
+      "isEmailVerified": true,
+      "isPhoneVerified": true,
+      "cart": [],
+      "savedPaymentMethods": [
+        {
+          "type": "card",
+          "provider": "Visa",
+          "last4Digits": "1234",
+          "token": "tok_abc123"
+        }
+      ],
+      "orders": ["64e3f7e5b5f1c2a1d3e4f63d"],
+      "productsBought": ["64e3d9a5b5f1c2a1d3e4f630"],
+      "reviews": ["64e3f9a5b5f1c2a1d3e4f660"],
+      "complaints": ["64e3c4b2b5f1c2a1d3e4f615"],
+      "wishlist": ["64e3d9a5b5f1c2a1d3e4f631"],
+      "addresses": ["64e3d0f5b5f1c2a1d3e4f600"]
+    },
+    {
+      "_id": "64e3a2f8b5f1c2a1d3e4f502",
+      "name": "Ananya Mehta",
+      "email": "ananya.mehta@example.com",
+      "passwordHash": "hashedpassword",
+      "role": "customer",
+      "phoneNumber": "9876543211",
+      "isEmailVerified": true,
+      "isPhoneVerified": true,
+      "cart": [],
+      "savedPaymentMethods": [
+        {
+          "type": "upi",
+          "provider": "GooglePay",
+          "last4Digits": "5678",
+          "token": "tok_def456"
+        }
+      ],
+      "orders": ["64e3f7e5b5f1c2a1d3e4f63e"],
+      "productsBought": ["64e3d9a5b5f1c2a1d3e4f632"],
+      "reviews": ["64e3f9a5b5f1c2a1d3e4f661"],
+      "complaints": ["64e3c4b2b5f1c2a1d3e4f616"],
+      "wishlist": ["64e3d9a5b5f1c2a1d3e4f633"],
+      "addresses": ["64e3d0f5b5f1c2a1d3e4f601"]
+    },
+    {
+      "_id": "64e3a2f8b5f1c2a1d3e4f503",
+      "name": "Rohan Verma",
+      "email": "rohan.verma@example.com",
+      "passwordHash": "hashedpassword",
+      "role": "customer",
+      "phoneNumber": "9876543212",
+      "isEmailVerified": false,
+      "isPhoneVerified": false,
+      "cart": [],
+      "savedPaymentMethods": [
+        {
+          "type": "card",
+          "provider": "MasterCard",
+          "last4Digits": "9012",
+          "token": "tok_ghi789"
+        }
+      ],
+      "orders": ["64e3f7e5b5f1c2a1d3e4f63f"],
+      "productsBought": ["64e3d9a5b5f1c2a1d3e4f634"],
+      "reviews": ["64e3f9a5b5f1c2a1d3e4f662"],
+      "complaints": ["64e3c4b2b5f1c2a1d3e4f617"],
+      "wishlist": ["64e3d9a5b5f1c2a1d3e4f635"],
+      "addresses": ["64e3d0f5b5f1c2a1d3e4f602"]
+    },
+    {
+      "_id": "64e3a2f8b5f1c2a1d3e4f504",
+      "name": "Priya Kapoor",
+      "email": "priya.kapoor@example.com",
+      "passwordHash": "hashedpassword",
+      "role": "customer",
+      "phoneNumber": "9876543213",
+      "isEmailVerified": true,
+      "isPhoneVerified": false,
+      "cart": [],
+      "savedPaymentMethods": [
+        {
+          "type": "upi",
+          "provider": "PhonePe",
+          "last4Digits": "3456",
+          "token": "tok_jkl012"
+        }
+      ],
+      "orders": ["64e3f7e5b5f1c2a1d3e4f640"],
+      "productsBought": ["64e3d9a5b5f1c2a1d3e4f636"],
+      "reviews": ["64e3f9a5b5f1c2a1d3e4f663"],
+      "complaints": ["64e3c4b2b5f1c2a1d3e4f618"],
+      "wishlist": ["64e3d9a5b5f1c2a1d3e4f637"],
+      "addresses": ["64e3d0f5b5f1c2a1d3e4f603"]
+    },
+    {
+      "_id": "64e3a2f8b5f1c2a1d3e4f505",
+      "name": "Aditya Singh",
+      "email": "aditya.singh@example.com",
+      "passwordHash": "hashedpassword",
+      "role": "customer",
+      "phoneNumber": "9876543214",
+      "isEmailVerified": false,
+      "isPhoneVerified": true,
+      "cart": [],
+      "savedPaymentMethods": [
+        {
+          "type": "card",
+          "provider": "Visa",
+          "last4Digits": "7890",
+          "token": "tok_mno345"
+        }
+      ],
+      "orders": ["64e3f7e5b5f1c2a1d3e4f641"],
+      "productsBought": ["64e3d9a5b5f1c2a1d3e4f638"],
+      "reviews": ["64e3f9a5b5f1c2a1d3e4f664"],
+      "complaints": ["64e3c4b2b5f1c2a1d3e4f619"],
+      "wishlist": ["64e3d9a5b5f1c2a1d3e4f639"],
+      "addresses": ["64e3d0f5b5f1c2a1d3e4f604"]
+    },
+    {
+      "_id": "64e3a2f8b5f1c2a1d3e4f506",
+      "name": "Isha Jain",
+      "email": "isha.jain@example.com",
+      "passwordHash": "hashedpassword",
+      "role": "customer",
+      "phoneNumber": "9876543215",
+      "isEmailVerified": true,
+      "isPhoneVerified": true,
+      "cart": [],
+      "savedPaymentMethods": [
+        {
+          "type": "upi",
+          "provider": "GooglePay",
+          "last4Digits": "2345",
+          "token": "tok_pqr678"
+        }
+      ],
+      "orders": ["64e3f7e5b5f1c2a1d3e4f642"],
+      "productsBought": ["64e3d9a5b5f1c2a1d3e4f63a"],
+      "reviews": ["64e3f9a5b5f1c2a1d3e4f665"],
+      "complaints": ["64e3c4b2b5f1c2a1d3e4f61a"],
+      "wishlist": ["64e3d9a5b5f1c2a1d3e4f63b"],
+      "addresses": ["64e3d0f5b5f1c2a1d3e4f605"]
+    },
+    {
+      "_id": "64e3a2f8b5f1c2a1d3e4f507",
+      "name": "Karan Malhotra",
+      "email": "karan.malhotra@example.com",
+      "passwordHash": "hashedpassword",
+      "role": "customer",
+      "phoneNumber": "9876543216",
+      "isEmailVerified": true,
+      "isPhoneVerified": false,
+      "cart": [],
+      "savedPaymentMethods": [
+        {
+          "type": "card",
+          "provider": "MasterCard",
+          "last4Digits": "6789",
+          "token": "tok_stu901"
+        }
+      ],
+      "orders": ["64e3f7e5b5f1c2a1d3e4f643"],
+      "productsBought": ["64e3d9a5b5f1c2a1d3e4f63c"],
+      "reviews": ["64e3f9a5b5f1c2a1d3e4f666"],
+      "complaints": ["64e3c4b2b5f1c2a1d3e4f61b"],
+      "wishlist": ["64e3d9a5b5f1c2a1d3e4f63d"],
+      "addresses": ["64e3d0f5b5f1c2a1d3e4f606"]
+    },
+    {
+      "_id": "64e3a2f8b5f1c2a1d3e4f508",
+      "name": "Sanya Rao",
+      "email": "sanya.rao@example.com",
+      "passwordHash": "hashedpassword",
+      "role": "customer",
+      "phoneNumber": "9876543217",
+      "isEmailVerified": false,
+      "isPhoneVerified": true,
+      "cart": [],
+      "savedPaymentMethods": [
+        {
+          "type": "upi",
+          "provider": "PhonePe",
+          "last4Digits": "4567",
+          "token": "tok_vwx234"
+        }
+      ],
+      "orders": ["64e3f7e5b5f1c2a1d3e4f644"],
+      "productsBought": ["64e3d9a5b5f1c2a1d3e4f63e"],
+      "reviews": ["64e3f9a5b5f1c2a1d3e4f667"],
+      "complaints": ["64e3c4b2b5f1c2a1d3e4f61c"],
+      "wishlist": ["64e3d9a5b5f1c2a1d3e4f63f"],
+      "addresses": ["64e3d0f5b5f1c2a1d3e4f607"]
+    },
+    {
+      "_id": "64e3a2f8b5f1c2a1d3e4f509",
+      "name": "Vivaan Desai",
+      "email": "vivaan.desai@example.com",
+      "passwordHash": "hashedpassword",
+      "role": "customer",
+      "phoneNumber": "9876543218",
+      "isEmailVerified": true,
+      "isPhoneVerified": true,
+      "cart": [],
+      "savedPaymentMethods": [
+        {
+          "type": "card",
+          "provider": "Visa",
+          "last4Digits": "8901",
+          "token": "tok_yza567"
+        }
+      ],
+      "orders": ["64e3f7e5b5f1c2a1d3e4f645"],
+      "productsBought": ["64e3d9a5b5f1c2a1d3e4f640"],
+      "reviews": ["64e3f9a5b5f1c2a1d3e4f668"],
+      "complaints": ["64e3c4b2b5f1c2a1d3e4f61d"],
+      "wishlist": ["64e3d9a5b5f1c2a1d3e4f641"],
+      "addresses": ["64e3d0f5b5f1c2a1d3e4f608"]
+    },
+    {
+      "_id": "64e3a2f8b5f1c2a1d3e4f50a",
+      "name": "Diya Patel",
+      "email": "diya.patel@example.com",
+      "passwordHash": "hashedpassword",
+      "role": "customer",
+      "phoneNumber": "9876543219",
+      "isEmailVerified": false,
+      "isPhoneVerified": false,
+      "cart": [],
+      "savedPaymentMethods": [
+        {
+          "type": "upi",
+          "provider": "GooglePay",
+          "last4Digits": "5678",
+          "token": "tok_bcd890"
+        }
+      ],
+      "orders": ["64e3f7e5b5f1c2a1d3e4f646"],
+      "productsBought": ["64e3d9a5b5f1c2a1d3e4f642"],
+      "reviews": ["64e3f9a5b5f1c2a1d3e4f669"],
+      "complaints": ["64e3c4b2b5f1c2a1d3e4f61e"],
+      "wishlist": ["64e3d9a5b5f1c2a1d3e4f643"],
+      "addresses": ["64e3d0f5b5f1c2a1d3e4f609"]
+    }
+  ]
+  

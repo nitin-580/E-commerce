@@ -31,6 +31,16 @@ const categories = [
     name: "Sofas",
     image: "https://picsum.photos/400/400?random=6",
   },
+  {
+    id: 6,
+    name: "Sofas",
+    image: "https://picsum.photos/400/400?random=7",
+  },
+  {
+    id: 6,
+    name: "Sofas",
+    image: "https://picsum.photos/400/400?random=8",
+  },
 ];
 
 const CategoryGrid = () => {
@@ -39,11 +49,11 @@ const CategoryGrid = () => {
       <h2 className="text-4xl text-black text-center mb-4">
         Shop by Category
       </h2>
-      <p className="text-m text-gray-500 text-center mb-8">
+      <p className="text-m text-gray-400 text-center mb-8">
         Explore categories for every style and space
       </p>
 
-      <div className="max-w-6xl mx-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6 px-6">
+      <div className="max-w-6xl h-3xl mx-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-2 px-6">
         {categories.map((category) => (
           <div
             key={category.id}

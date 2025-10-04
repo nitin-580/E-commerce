@@ -1,0 +1,123 @@
+[
+    {
+      "_id": "64e3b3a1b5f1c2a1d3e4f60b",
+      "user": "64e3a2f8b5f1c2a1d3e4f501",
+      "label": "Home",
+      "street": "12 MG Road",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "postalCode": "400001",
+      "country": "India",
+      "phoneNumber": "9876543210",
+      "isDefault": true
+    },
+    {
+      "_id": "64e3b3a1b5f1c2a1d3e4f60c",
+      "user": "64e3a2f8b5f1c2a1d3e4f502",
+      "label": "Home",
+      "street": "45 B Block, Indira Nagar",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "postalCode": "560038",
+      "country": "India",
+      "phoneNumber": "9876543211",
+      "isDefault": true
+    },
+    {
+      "_id": "64e3b3a1b5f1c2a1d3e4f60d",
+      "user": "64e3a2f8b5f1c2a1d3e4f503",
+      "label": "Home",
+      "street": "23 Sector 17",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "postalCode": "160017",
+      "country": "India",
+      "phoneNumber": "9876543212",
+      "isDefault": true
+    },
+    {
+      "_id": "64e3b3a1b5f1c2a1d3e4f60e",
+      "user": "64e3a2f8b5f1c2a1d3e4f504",
+      "label": "Home",
+      "street": "56 Green Park",
+      "city": "Delhi",
+      "state": "Delhi",
+      "postalCode": "110016",
+      "country": "India",
+      "phoneNumber": "9876543213",
+      "isDefault": true
+    },
+    {
+      "_id": "64e3b3a1b5f1c2a1d3e4f60f",
+      "user": "64e3a2f8b5f1c2a1d3e4f505",
+      "label": "Home",
+      "street": "78 Park Street",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "postalCode": "700016",
+      "country": "India",
+      "phoneNumber": "9876543214",
+      "isDefault": true
+    },
+    {
+      "_id": "64e3b3a1b5f1c2a1d3e4f610",
+      "user": "64e3a2f8b5f1c2a1d3e4f506",
+      "label": "Home",
+      "street": "34 MG Road",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "postalCode": "411001",
+      "country": "India",
+      "phoneNumber": "9876543215",
+      "isDefault": true
+    },
+    {
+      "_id": "64e3b3a1b5f1c2a1d3e4f611",
+      "user": "64e3a2f8b5f1c2a1d3e4f507",
+      "label": "Home",
+      "street": "90 Banjara Hills",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "postalCode": "500034",
+      "country": "India",
+      "phoneNumber": "9876543216",
+      "isDefault": true
+    },
+    {
+      "_id": "64e3b3a1b5f1c2a1d3e4f612",
+      "user": "64e3a2f8b5f1c2a1d3e4f508",
+      "label": "Home",
+      "street": "12 Marine Drive",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "postalCode": "400002",
+      "country": "India",
+      "phoneNumber": "9876543217",
+      "isDefault": true
+    },
+    {
+      "_id": "64e3b3a1b5f1c2a1d3e4f613",
+      "user": "64e3a2f8b5f1c2a1d3e4f509",
+      "label": "Home",
+      "street": "67 Ashok Nagar",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "postalCode": "600083",
+      "country": "India",
+      "phoneNumber": "9876543218",
+      "isDefault": true
+    },
+    {
+      "_id": "64e3b3a1b5f1c2a1d3e4f614",
+      "user": "64e3a2f8b5f1c2a1d3e4f50a",
+      "label": "Home",
+      "street": "101 Sector 21",
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "postalCode": "201301",
+      "country": "India",
+      "phoneNumber": "9876543219",
+      "isDefault": true
+    }
+  ]
+  

@@ -6,6 +6,8 @@ import profileRoutes from './routes/profile.routes'
 import orderRoutes from './routes/order.routes'// include .js if using ES modules
 import productRoutes from './routes/product.routes';
 import paymentRoute from './routes/razorpayRoute' // include .js if using ES modules
+import cartRoute from './routes/cart.routes'
+import adminRoute from './routes/admin.routes'
 
 dotenv.config();
 
@@ -23,6 +25,8 @@ app.use('/api/profile',profileRoutes);
 app.use('/api/orders', orderRoutes);
 app.use('/api/products', productRoutes);
 app.use('/api/payment', paymentRoute);
+app.use('/api/cart', cartRoute)
+app.use('/api/admin',adminRoute)
 
 const PORT = process.env.PORT 
 // MongoDB connection

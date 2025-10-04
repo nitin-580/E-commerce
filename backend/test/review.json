@@ -1,0 +1,93 @@
+[
+    {
+      "_id": "64e3fa00b5f1c2a1d3e4f660",
+      "user": "64e3a2f8b5f1c2a1d3e4f501",
+      "product": "64e3e6d4b5f1c2a1d3e4f629",
+      "rating": 5,
+      "comment": "Absolutely loved this decor piece! Looks amazing in my living room.",
+      "createdAt": "2025-08-19T17:00:00.000Z",
+      "updatedAt": "2025-08-19T17:00:00.000Z"
+    },
+    {
+      "_id": "64e3fa00b5f1c2a1d3e4f661",
+      "user": "64e3a2f8b5f1c2a1d3e4f502",
+      "product": "64e3e6d4b5f1c2a1d3e4f62a",
+      "rating": 4,
+      "comment": "Good quality, but the color was slightly different from the picture.",
+      "createdAt": "2025-08-19T17:05:00.000Z",
+      "updatedAt": "2025-08-19T17:05:00.000Z"
+    },
+    {
+      "_id": "64e3fa00b5f1c2a1d3e4f662",
+      "user": "64e3a2f8b5f1c2a1d3e4f503",
+      "product": "64e3e6d4b5f1c2a1d3e4f62b",
+      "rating": 3,
+      "comment": "Average product, nothing special. Delivery was fast though.",
+      "createdAt": "2025-08-19T17:10:00.000Z",
+      "updatedAt": "2025-08-19T17:10:00.000Z"
+    },
+    {
+      "_id": "64e3fa00b5f1c2a1d3e4f663",
+      "user": "64e3a2f8b5f1c2a1d3e4f504",
+      "product": "64e3e6d4b5f1c2a1d3e4f62c",
+      "rating": 5,
+      "comment": "Excellent craftsmanship. Highly recommend for home decoration.",
+      "createdAt": "2025-08-19T17:15:00.000Z",
+      "updatedAt": "2025-08-19T17:15:00.000Z"
+    },
+    {
+      "_id": "64e3fa00b5f1c2a1d3e4f664",
+      "user": "64e3a2f8b5f1c2a1d3e4f505",
+      "product": "64e3e6d4b5f1c2a1d3e4f62d",
+      "rating": 2,
+      "comment": "The product arrived with minor scratches. Disappointed.",
+      "createdAt": "2025-08-19T17:20:00.000Z",
+      "updatedAt": "2025-08-19T17:20:00.000Z"
+    },
+    {
+      "_id": "64e3fa00b5f1c2a1d3e4f665",
+      "user": "64e3a2f8b5f1c2a1d3e4f506",
+      "product": "64e3e6d4b5f1c2a1d3e4f62e",
+      "rating": 4,
+      "comment": "Good value for money. Fits perfectly in my study room.",
+      "createdAt": "2025-08-19T17:25:00.000Z",
+      "updatedAt": "2025-08-19T17:25:00.000Z"
+    },
+    {
+      "_id": "64e3fa00b5f1c2a1d3e4f666",
+      "user": "64e3a2f8b5f1c2a1d3e4f507",
+      "product": "64e3e6d4b5f1c2a1d3e4f62f",
+      "rating": 5,
+      "comment": "Stunning product! Looks exactly like the pictures online.",
+      "createdAt": "2025-08-19T17:30:00.000Z",
+      "updatedAt": "2025-08-19T17:30:00.000Z"
+    },
+    {
+      "_id": "64e3fa00b5f1c2a1d3e4f667",
+      "user": "64e3a2f8b5f1c2a1d3e4f508",
+      "product": "64e3e6d4b5f1c2a1d3e4f630",
+      "rating": 3,
+      "comment": "Average quality, but delivery was on time.",
+      "createdAt": "2025-08-19T17:35:00.000Z",
+      "updatedAt": "2025-08-19T17:35:00.000Z"
+    },
+    {
+      "_id": "64e3fa00b5f1c2a1d3e4f668",
+      "user": "64e3a2f8b5f1c2a1d3e4f509",
+      "product": "64e3e6d4b5f1c2a1d3e4f631",
+      "rating": 4,
+      "comment": "Nice product and good packaging. Satisfied overall.",
+      "createdAt": "2025-08-19T17:40:00.000Z",
+      "updatedAt": "2025-08-19T17:40:00.000Z"
+    },
+    {
+      "_id": "64e3fa00b5f1c2a1d3e4f669",
+      "user": "64e3a2f8b5f1c2a1d3e4f50a",
+      "product": "64e3e6d4b5f1c2a1d3e4f632",
+      "rating": 5,
+      "comment": "Perfect decor item! Will order more from this store.",
+      "createdAt": "2025-08-19T17:45:00.000Z",
+      "updatedAt": "2025-08-19T17:45:00.000Z"
+    }
+  ]
+  

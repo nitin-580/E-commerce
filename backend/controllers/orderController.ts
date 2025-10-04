@@ -9,7 +9,7 @@ interface AuthRequest extends Request {
   orders?: {id: string};
 }
 
-// Create a new order
+// Create a new order----(PAYEMENT INTEGRATION)
 export const createOrder = async (req: AuthRequest, res: Response) => {
     try {
       const userId = req.user?.id;
@@ -50,7 +50,7 @@ export const createOrder = async (req: AuthRequest, res: Response) => {
       });
       await newOrder.save();
   
-      // Link order to payment
+      // Link order to paymen
       payment.order = newOrder._id;
       await payment.save();
   
@@ -97,7 +97,7 @@ export const getOrdersByUser = async (req: AuthRequest, res: Response) => {
   }
 };
 
-// Update order status (admin or authorized roles only)
+// Update order status (admin or authorized roles only)----(ADMIN)
 export const updateOrderStatus = async (req: Request, res: Response) => {
   try {
     const { status, paymentStatus } = req.body;
